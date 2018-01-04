@@ -10,7 +10,7 @@ public class StatisticsTestEX {
 	    boolean isRight = true;
 	    
 	    System.out.println("태양에서 지구까지의 거리 : " + distance);
-	    System.out.println("로도에 담청될 확률 : " + lot
+	    System.out.println("로도에 담청될 확률 : " + 
 	    System.out.println("태양에서 지구까지의 거리 : " + distance);
 	    System.out.println("태양에서 지구까지의 거리 : " + distance);
 	    
